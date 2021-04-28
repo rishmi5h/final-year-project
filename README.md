@@ -12,4 +12,4 @@ Models used
 <li>LSTM
  </ul>   
  
- Libraries used : Keras, pandas, numpy, matplotlib, seaborn
+ Libraries used : Keras, Statsmodel, pandas, numpy, matplotlib, seaborn

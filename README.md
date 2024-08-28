@@ -1,5 +1,5 @@
 # final-year-project
-### [Presentation link](https://www.canva.com/design/DAEcmNKTM98/WZio5uyUy5_WqNLEro8cIg/view?utm_content=DAEcmNKTM98&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### [Presentation link](https://drive.google.com/file/d/1nBQQUfHQqdP92OzcVOUmt2RFXrVNy6Sf/view)
 In my final year project for electrical engineering i had done load forecasting using many techniques.
 
 dataset used - [Hourly energy demand and generation](https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather)
